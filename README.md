@@ -40,8 +40,6 @@ Tools
 - 🚀 Personal Portfolio Websites
 - 💡 Frontend Practice Projects
 
- ## 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasnain-Raza123)

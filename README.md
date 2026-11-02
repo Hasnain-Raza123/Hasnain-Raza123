@@ -16,3 +16,26 @@ I love creating websites and improving my coding skills.
 - 🚀 I enjoy building websites.
 - 📚 Currently improving my coding skills.
 - 🎯 My goal is to become a Professional Web Developer.
+
+🛠️ Tech Stack
+
+Frontend
+
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript (Learning)
+
+Tools
+
+- VS Code
+- Git
+- GitHub
+
+💻 What I Build
+
+- 🌐 HTML & CSS Websites
+- 🎨 Responsive Web Designs
+- 📱 Bootstrap Layouts
+- 🚀 Personal Portfolio Websites
+- 💡 Frontend Practice Projects  

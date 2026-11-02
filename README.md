@@ -38,4 +38,10 @@ Tools
 - 🎨 Responsive Web Designs
 - 📱 Bootstrap Layouts
 - 🚀 Personal Portfolio Websites
-- 💡 Frontend Practice Projects  
+- 💡 Frontend Practice Projects
+
+ ## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasnain-Raza123&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnain-Raza123&layout=compact&theme=tokyonight) 

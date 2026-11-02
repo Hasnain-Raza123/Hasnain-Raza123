@@ -8,6 +8,11 @@ I'm currently learning HTML, CSS, Bootstrap and JavaScript.
 
 I love creating websites and improving my coding skills.
 
-### 🎯 My Goal
+## 👨‍💻 About Me
 
-To become a Professional Web Developer.
+- 👋 Hi, I'm Hasnain Raza.
+- 🌱 I'm learning Web Development.
+- 💻 I know HTML, CSS and Bootstrap.
+- 🚀 I enjoy building websites.
+- 📚 Currently improving my coding skills.
+- 🎯 My goal is to become a Professional Web Developer.

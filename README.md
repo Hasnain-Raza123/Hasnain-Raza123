@@ -45,3 +45,17 @@ Tools
 ![Hasnain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasnain-Raza123&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnain-Raza123&layout=compact&theme=dark)
+
+---
+
+## 🤝 Let's Connect
+
+- 🌐 [GitHub](https://github.com/Hasnain-Raza123)
+- 📧 Email: hasnainhr157504@gamil.com
+- 💻 [LinkedIn](https://www.linkedin.com/feed/)
+
+---
+
+## 💡 My Goal
+
+"To become a Professional Web Developer."

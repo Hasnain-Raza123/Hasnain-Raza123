@@ -42,6 +42,6 @@ Tools
 
  ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasnain-Raza123&show_icons=true&theme=tokyonight)
+![Hasnain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasnain-Raza123&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnain-Raza123&layout=compact&theme=tokyonight) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnain-Raza123&layout=compact&theme=dark)

@@ -42,10 +42,11 @@ Tools
 
  ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasnain-Raza123&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnain-Raza123&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasnain-Raza123)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnain-Raza123)
 
 ## 🤝 Let's Connect
 
